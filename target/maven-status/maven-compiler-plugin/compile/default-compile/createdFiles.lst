@@ -1,0 +1,4 @@
+com\apirest\config\MyWebAppInitializer.class
+com\apirest\model\Auto.class
+com\apirest\config\WebConfig.class
+com\apirest\config\AppConfig.class
